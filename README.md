@@ -1,1 +1,2 @@
-# Mahiru-SD
+# Mahiru-Base-SD
+ Generate Mahiru Pics
